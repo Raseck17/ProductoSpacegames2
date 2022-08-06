@@ -1,3 +1,5 @@
+<?php include('session.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +24,7 @@
 		 <a href="Nosotros.html #Logosos" class="navbar-brand"><img src="imgpri/LogoSpaces.png" width="80px"><img align="end" src="imgpri/Carrito.png" width="60px"></a> <!-- Logo y carrito de compras con un link para ir a ver nuestro logo más grande y más sobre nosotros -->
 		 	<ul class="nav"> <!-- Lista no ordenada -->
      		 <li class="nav-item active"> <!-- Elemento de la lista -->
-        	<a class="nav-link" href="index.html">Inicio</a> <!-- Elemento de la lista con un link a otras pestañas correspondiendo su nombre -->
+        	<a class="nav-link" href="index2.php">Inicio</a> <!-- Elemento de la lista con un link a otras pestañas correspondiendo su nombre -->
      		 </li>
      		 <li class="nav-item">
        		 <a class="nav-link" href="Videojuegos.html">Videojuegos</a>
