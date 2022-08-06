@@ -244,3 +244,6 @@ body::-webkit-scrollbar-thumb{
 	border-radius: 10px;
 }
 
+.curso{
+	cursor: pointer;
+}
