@@ -191,6 +191,17 @@ background-color: red;
 	color: white;
 }
 
+.Funko{
+	background-color: yellow;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
 .col{
 	flex-grow: 0 ;
 	flex-basis: 0;
